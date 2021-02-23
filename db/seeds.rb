@@ -138,7 +138,7 @@ Marker.create({
   name: "New Orleans",
   lat: -90.071533,
   lng: 29.951065,
-  description: "Asia",
+  description: "North America",
   location: "-90.071533, 29.951065"
 })
 
@@ -405,6 +405,13 @@ Marker.create({
   location: "175.6829, -37.8721"
 })
 
+Marker.create({
+  name: "Fortress of Solitude",
+  lat: -148.003021,
+  lng: -76.299965,
+  description: "Where Superman comes to binge Netflix",
+  location: "-148.003021, -76.299965"
+})
 
 puts "Done!"
 
